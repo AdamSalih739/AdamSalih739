@@ -59,5 +59,7 @@ https://github.com/yourname/your-repo
 
 ## Contact
 adamsalih739@gmail.com
+
 437-288-3722
+
 LinkedIn: https://www.linkedin.com/in/adam-s-261bb9241/
