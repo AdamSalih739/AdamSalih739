@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hey 👋, I'm Adam!
 
-<!--
-**AdamSalih739/AdamSalih739** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical Engineering / Toronto Metropolitan University / Toronto, ON
+[GitHub](https://github.com/AdamSalih739) | [LinkedIn](https://www.linkedin.com/in/adam-s-261bb9241/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+Electrical Engineering student focusing on signals processing, analog circuit design, digital systems, and power systems.
+Passionate about creating useful tools to 
+
+---
+
+## Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+
+Also experienced with:
+- ARM Assembly
+- VHDL
+
+---
+
+## Algorithms & Computer Science
+- Data Structures: Arrays, Linked Lists, Stacks, Queues, Trees
+- Algorithms: Sorting, Searching, Shortest Path
+- Object-Oriented Design
+- Time Complexity Analysis
+- Problem Solving
+
+---
+
+## Electrical & Embedded Systems
+- DC & AC Circuit Analysis
+- Electromagnetics Theory
+- Circuit Simulation using Multisim
+- Signal Analysis using MATLAB
+- Microcontroller Programming
+- Signal Processing
+
+---
+
+## CAD & Engineering Design
+- Fusion 360 and CATIA (3D modeling & aerospace design)
+- SPICE KiCad (Circuit Design)
+
+---
+## Projects
+### Project Name
+https://github.com/yourname/your-repo
+
+- What it does
+- Tech used
+
+---
+
+## Contact
+adamsalih739@gmail.com
+437-288-3722
+LinkedIn: https://www.linkedin.com/in/adam-s-261bb9241/
