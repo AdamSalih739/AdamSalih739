@@ -1,7 +1,6 @@
 # Hey 👋, I'm Adam!
 
 Electrical Engineering / Toronto Metropolitan University / Toronto, ON
-[GitHub](https://github.com/AdamSalih739) | [LinkedIn](https://www.linkedin.com/in/adam-s-261bb9241/)
 
 ---
 
