@@ -7,7 +7,8 @@ Electrical Engineering / Toronto Metropolitan University / Toronto, ON
 
 ## About Me
 Electrical Engineering student focusing on signals processing, analog circuit design, digital systems, and power systems.
-Passionate about creating useful tools to 
+Passionate about creating useful tools to help society and bring innovation to the world of engineering.
+A hard worker who takes pride in his craft, always making sure to complete work with excellence.
 
 ---
 
