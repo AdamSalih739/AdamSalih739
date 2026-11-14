@@ -68,6 +68,7 @@ TMAD RC3 2026, Toronto Metropolitan University | Jan 2026 - Aug 2026
 ---
 
 ### 8-Bit GPU System Design (VHDL)
+https://github.com/AdamSalih739/8bit_GPU_System_VHDL
 COE328 Digital Systems, Toronto Metropolitan University | Fall 2025
 
 - Designed a 6-block digital system with a 9-state FSM, a 4-to-16 decoder, and three microcode-driven ALUs
@@ -76,6 +77,7 @@ COE328 Digital Systems, Toronto Metropolitan University | Fall 2025
 ---
 
 ### MOSFET Voltage Amplifier (KiCad SPICE)
+https://github.com/AdamSalih739/MOSFET_Amplifier_Design
 Toronto Metropolitan University | March 2026
 
 - Designed and simulated a four-stage CMOS amplifier
@@ -91,6 +93,7 @@ Toronto Metropolitan University | November 2025
 - Unit testing using JUnit
 
 ### Great Lakes Data Analysis Tool (C)
+https://github.com/AdamSalih739/Great_Lakes_Ice_Analysis
 Toronto Metropolitan University | March 2025
 
 - Built a C tool to analyze multi-year climate datasets across six Canadian lakes
