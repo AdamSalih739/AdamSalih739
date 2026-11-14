@@ -89,6 +89,7 @@ Toronto Metropolitan University | March 2026
 
 ### Car Rental Management System (Java)
 https://github.com/AdamSalih739/Car_Rental_Management_System
+
 Toronto Metropolitan University | November 2025
 
 - Java backend modeling real-world vehicle rental operations
