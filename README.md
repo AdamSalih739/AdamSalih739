@@ -86,6 +86,7 @@ Toronto Metropolitan University | March 2026
 - Achieved about 70-72 dB gain and about 15 MHz bandwidth against a 60 dB target
 
 ---
+
 ### Car Rental Management System (Java)
 Toronto Metropolitan University | November 2025
 
@@ -93,6 +94,8 @@ Toronto Metropolitan University | November 2025
 - Polymorphism, inheritance, interfaces for multiple vehicle types
 - Optional add-ons (GPS, transmission-based pricing)
 - Unit testing using JUnit
+
+---
 
 ### Great Lakes Data Analysis Tool (C)
 https://github.com/AdamSalih739/Great_Lakes_Ice_Analysis
