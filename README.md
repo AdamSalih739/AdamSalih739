@@ -50,6 +50,8 @@ Also experienced with:
 ---
 ## Projects
 ### Nuclear-Renewable Microgrid Digital Twin (Python)
+https://github.com/AdamSalih739/Nuclear_Renewable_Microgrid_Digital_Twin
+
 CI Innovation Competition, Ontario Tech University | April 2026
 
 - Simulated a nuclear-renewable microgrid in Python using pandapower
