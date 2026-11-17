@@ -61,6 +61,8 @@ CI Innovation Competition, Ontario Tech University | April 2026
 ---
 
 ### Plane Manufacturing Project (Arduino, MATLAB)
+https://github.com/AdamSalih739/RC_Plane_Manufacturing_Project
+
 TMAD RC3 2026, Toronto Metropolitan University | Jan 2026 - Aug 2026
 
 - Wired, programmed, and calibrated flight controllers, speed controllers, and motors using Arduino
